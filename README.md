@@ -2,15 +2,15 @@
 This project implements a simple Python-based calculator to split a bill among multiple people, including tip calculation. It demonstrates basic programming concepts such as user input handling, arithmetic operations, and formatted output.
  
 ### Table of Contents
--	Executive Summary
--	Business Problem
--	Dataset / Inputs Overview
--	Code Workflow (Data Cleaning Equivalent)
--	Feature Engineering (Derived Values)
--	Output / KPI Dashboard
--	Business Insights
--	Technical Skills Demonstrated
--	Project Outcome
+-	[Executive Summary](https://github.com/victorhamvida-dotcom/-Bill-Split-Calculator-Documentation#1-executive-summary)
+-	[Business Problem](https://github.com/victorhamvida-dotcom/-Bill-Split-Calculator-Documentation#2-business-problem)
+-	[Dataset / Inputs Overview](https://github.com/victorhamvida-dotcom/-Bill-Split-Calculator-Documentation#3-dataset--inputs-overview)
+-	[Code Workflow (Data Cleaning Equivalent)](https://github.com/victorhamvida-dotcom/-Bill-Split-Calculator-Documentation#4-code-workflow-data-cleaning-equivalent)
+-	[Feature Engineering (Derived Values)]()
+-	[Output / KPI Dashboard](https://github.com/victorhamvida-dotcom/-Bill-Split-Calculator-Documentation#7-output--kpi-dashboard)
+-	[Business Insights]()
+-	[Technical Skills Demonstrated]()
+-	[Project Outcome]()
 
 ## 1. Executive Summary
 This project implements a simple Python-based calculator to split a bill among multiple people, including tip calculation. It demonstrates basic programming concepts such as user input handling, arithmetic operations, and formatted output.
@@ -44,8 +44,8 @@ Steps performed by the program:
 4.	Adds tip to bill to get total.
 5.	Divides total by number of people.
 6.	Prints results in a clear format.
-5. Feature Engineering (Derived Values)
 
+## 5. Feature Engineering (Derived Values)
 The program generates new values from raw inputs:
 | Feature             | Formula                                | Purpose                   |
 |---------------------|----------------------------------------|---------------------------|
