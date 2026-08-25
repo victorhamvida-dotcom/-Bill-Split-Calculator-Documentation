@@ -11,7 +11,8 @@ This project implements a simple Python-based calculator to split a bill among m
 -	[Business Insights](https://github.com/victorhamvida-dotcom/-Bill-Split-Calculator-Documentation#8-business-insights)
 -	[Technical Skills Demonstrated](https://github.com/victorhamvida-dotcom/-Bill-Split-Calculator-Documentation#9-technical-skills-demonstrated)
 -	[Project Outcome](https://github.com/victorhamvida-dotcom/-Bill-Split-Calculator-Documentation#10-project-outcome)
-- [Code]()
+- [Code](https://github.com/victorhamvida-dotcom/-Bill-Split-Calculator-Documentation#code)
+  
 ## 1. Executive Summary
 This project implements a simple Python-based calculator to split a bill among multiple people, including tip calculation. It demonstrates basic programming concepts such as user input handling, arithmetic operations, and formatted output.
 
