@@ -32,9 +32,9 @@ The purpose of this project is to automate the process, ensuring accuracy and fa
 this project relies on user inputs rather than external data files.
 | Input Variable   | Description                     | Example |
 |------------------|---------------------------------|---------|
-| bill_amount      | Total bill before tip           | 100.00  |
-| tip_percentage   | Tip percentage to apply         | 10      |
-| num_people       | Number of people sharing the bill | 4     |
+| **bill_amount**      | Total bill before tip           | 100.00  |
+| **tip_percentage**   | Tip percentage to apply         | 10      |
+| **num_people**       | Number of people sharing the bill | 4     |
 
 
 ## 4. Code Workflow (Data Cleaning Equivalent)
@@ -50,31 +50,31 @@ Steps performed by the program:
 The program generates new values from raw inputs:
 | Feature             | Formula                                | Purpose                   |
 |---------------------|----------------------------------------|---------------------------|
-| tip_amount          | (tip_percentage / 100) * bill_amount   | Shows tip contribution    |
-| total_amount        | bill_amount + tip_amount               | Total bill including tip  |
-| amount_per_person   | total_amount / num_people              | Fair share per person     |
+| **tip_amount**          | (tip_percentage / 100) * bill_amount   | Shows tip contribution    |
+| **total_amount**        | bill_amount + tip_amount               | Total bill including tip  |
+| **amount_per_person**   | total_amount / num_people              | Fair share per person     |
 
 
-## 7. Output / KPI Dashboard
+## 6. Output / KPI Dashboard
 The calculator produces two key outputs:
-- Total (including tip): e.g., $110.0
-- Each person pays: e.g., $27.5
+- **Total (including tip):** e.g., $110.0
+- **Each person pays:** e.g., $27.5
 
 These outputs act as the KPIs of the program, ensuring clarity and fairness.
 
-## 8. Business Insights
+## 7. Business Insights
 -	Automates bill splitting, reducing manual errors.
 -	Ensures fairness by dividing equally among participants.
 -	Flexible for different tip percentages and group sizes.
   
-### 9. Technical Skills Demonstrated
+### 8. Technical Skills Demonstrated
 -	Python programming basics
 -	Input handling (input())
 -	Type conversion (float, int)
 -	Arithmetic operations
 -	String formatting with f-strings
 
-## 10. Project Outcome
+## 9. Project Outcome
 The project successfully provides a simple, reliable tool for splitting bills. It demonstrates how Python can be applied to everyday problems, reinforcing programming fundamentals while delivering practical value.
 
 # Code
